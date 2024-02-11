@@ -1,0 +1,12 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×À†ûÿÿÿÿ8‘é‘ÔØ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×À†ûÿÿÿÿ8‘é‘ÔØ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×À†ûÿÿÿÿ8‘é‘ÔØ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×À†ûÿÿÿÿ8‘é‘ÔØ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëá¼8‘é‘ÔØ1
+`
+java:S1659">Declare "B" and all following declarations on a separate line.(×À†ûÿÿÿÿ8šé‘ÔØ1
+L	java:S106"+Replace this use of System.out by a logger.(ë…‘Ÿÿÿÿÿÿ8é‘ÔØ1
+G	java:S106"+Replace this use of System.out by a logger.(Ø¥×Ó8Ÿé‘ÔØ1
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8 é‘ÔØ1

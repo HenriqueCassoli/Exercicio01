@@ -1,0 +1,20 @@
+
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ú‚V8¸ÆÚØ1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ú‚V8¹ÆÚØ1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ú‚V8¹ÆÚØ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¡ÛŸøÿÿÿÿ8¹ÆÚØ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¡ÛŸøÿÿÿÿ8¹ÆÚØ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¡ÛŸøÿÿÿÿ8¹ÆÚØ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¡ÛŸøÿÿÿÿ8¹ÆÚØ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê¡ÛŸøÿÿÿÿ8¹ÆÚØ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(š‚Õ‰øÿÿÿÿ8ºÆÚØ1
+Z
+java:S1659">Declare "B" and all following declarations on a separate line.(¡ú‚V8ÉÆÚØ1
+f
+java:S1659"DDeclare "CIRCULO" and all following declarations on a separate line.(ê¡ÛŸøÿÿÿÿ8ÉÆÚØ1
+G	java:S106"+Replace this use of System.out by a logger.(÷âÉ8ÏÆÚØ1
+G	java:S106"+Replace this use of System.out by a logger.(´œ³×8ĞÆÚØ1
+G	java:S106"+Replace this use of System.out by a logger.(Ëäï²8ĞÆÚØ1
+L	java:S106"+Replace this use of System.out by a logger.(µ¯Âùÿÿÿÿ8ÑÆÚØ1
+L	java:S106"+Replace this use of System.out by a logger.(œı“‡ûÿÿÿÿ8ÑÆÚØ1
+G	java:S106 "+Replace this use of System.out by a logger.(©è°Ş8ÑÆÚØ1

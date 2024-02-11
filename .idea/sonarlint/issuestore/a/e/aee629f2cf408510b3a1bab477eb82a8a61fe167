@@ -1,0 +1,25 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÑÀ´şÿÿÿÿ8ô·üØØ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÑÀ´şÿÿÿÿ8õ·üØØ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÑÀ´şÿÿÿÿ8õ·üØØ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÑÀ´şÿÿÿÿ8õ·üØØ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒª´Ï8ö·üØØ1
+_
+java:S1854"=Remove this useless assignment to local variable "id_itens2".(ÙÒ¿õøÿÿÿÿ8Š¸üØØ1
+_
+java:S1854"=Remove this useless assignment to local variable "id_itens1".(æº®ùÿÿÿÿ8‹¸üØØ1
+h
+java:S1659"FDeclare "id_itens2" and all following declarations on a separate line.(•ÑÀ´şÿÿÿÿ8‹¸üØØ1
+e
+java:S1659"CDeclare "price2" and all following declarations on a separate line.(€óÂ ıÿÿÿÿ8Œ¸üØØ1
+P
+java:S1481".Remove this unused "id_itens1" local variable.(•ÑÀ´şÿÿÿÿ8’¸üØØ1
+P
+java:S1481".Remove this unused "id_itens2" local variable.(•ÑÀ´şÿÿÿÿ8’¸üØØ1
+L	java:S106"+Replace this use of System.out by a logger.(ñª«øÿÿÿÿ8“¸üØØ1
+L	java:S106"+Replace this use of System.out by a logger.(¦Æôıÿÿÿÿ8“¸üØØ1
+L	java:S106"+Replace this use of System.out by a logger.(ŸúÖµşÿÿÿÿ8”¸üØØ1
+G	java:S106"+Replace this use of System.out by a logger.(µŞü8•¸üØØ1
+L	java:S106"+Replace this use of System.out by a logger.(¦Æôıÿÿÿÿ8–¸üØØ1
+L	java:S106 "+Replace this use of System.out by a logger.(ŸúÖµşÿÿÿÿ8—¸üØØ1
+L	java:S106%"+Replace this use of System.out by a logger.(ø»ƒäüÿÿÿÿ8—¸üØØ1
